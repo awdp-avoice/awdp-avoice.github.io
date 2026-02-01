@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="35" height="30" xmlns="http://www.w3.org/2000/svg">
+<g style="fill:black;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:0;fill-rule:nonzero;">
+<g style="">
+<g style="" transform="matrix(-1.83697e-16 1 -1 -1.83697e-16 10 -5)">
+  <rect x="5" y="0" width="5" height="5"/>
+</g>
+<g style="" transform="matrix(-1.83697e-16 1 -1 -1.83697e-16 20 -5)">
+  <rect x="10" y="5" width="5" height="5"/>
+</g>
+<g style="" transform="matrix(-1.83697e-16 1 -1 -1.83697e-16 30 -5)">
+  <rect x="15" y="10" width="5" height="5"/>
+</g>
+<g style="" transform="matrix(-1.83697e-16 1 -1 -1.83697e-16 30 -15)">
+  <rect x="20" y="5" width="5" height="5"/>
+</g>
+<g style="" transform="matrix(-1.83697e-16 1 -1 -1.83697e-16 30 -25)">
+  <rect x="25" y="0" width="5" height="5"/>
+</g>
+<g style="" transform="matrix(-1.83697e-16 1 -1 -1.83697e-16 25 10)">
+  <rect x="5" y="15" width="5" height="5"/>
+</g>
+<g style="" transform="matrix(-1.83697e-16 1 -1 -1.83697e-16 35 10)">
+  <rect x="10" y="20" width="5" height="5"/>
+</g>
+<g style="" transform="matrix(-1.83697e-16 1 -1 -1.83697e-16 15 10)">
+  <rect x="0" y="10" width="5" height="5"/>
+</g>
+<g style="" transform="matrix(-1.83697e-16 1 -1 -1.83697e-16 45 10)">
+  <rect x="15" y="25" width="5" height="5"/>
+</g>
+<g style="" transform="matrix(-1.83697e-16 1 -1 -1.83697e-16 45 3.55271e-15)">
+  <rect x="20" y="20" width="5" height="5"/>
+</g>
+<g style="" transform="matrix(-1.83697e-16 1 -1 -1.83697e-16 45 -10)">
+  <rect x="25" y="15" width="5" height="5"/>
+</g>
+<g style="" transform="matrix(-1.83697e-16 1 -1 -1.83697e-16 45 -20)">
+  <rect x="30" y="10" width="5" height="5"/>
+</g>
+</g>
+</g>
+</svg>
